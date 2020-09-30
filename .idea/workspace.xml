@@ -62,7 +62,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -225,25 +225,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1601493178887" />
-    <state x="275" y="7" key="CommitChangelistDialog2" timestamp="1601502437081">
+    <state x="275" y="7" key="CommitChangelistDialog2" timestamp="1601503402024">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="275" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601502437081" />
-    <state width="1476" height="208" key="GridCell.Tab.0.bottom" timestamp="1601503376706">
+    <state x="275" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601503402024" />
+    <state width="1476" height="208" key="GridCell.Tab.0.bottom" timestamp="1601503453905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1476" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601503376706" />
-    <state width="1476" height="208" key="GridCell.Tab.0.center" timestamp="1601503376706">
+    <state width="1476" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601503453905" />
+    <state width="1476" height="208" key="GridCell.Tab.0.center" timestamp="1601503453905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1476" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601503376706" />
-    <state width="1476" height="208" key="GridCell.Tab.0.left" timestamp="1601503376706">
+    <state width="1476" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601503453905" />
+    <state width="1476" height="208" key="GridCell.Tab.0.left" timestamp="1601503453905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1476" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601503376706" />
-    <state width="1476" height="208" key="GridCell.Tab.0.right" timestamp="1601503376706">
+    <state width="1476" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601503453905" />
+    <state width="1476" height="208" key="GridCell.Tab.0.right" timestamp="1601503453905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1476" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601503376706" />
+    <state width="1476" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601503453905" />
   </component>
 </project>
