@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,12 +161,20 @@
       <option name="project" value="LOCAL" />
       <updated>1601499929471</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Completed module">
+      <created>1601501106483</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601501106483</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task1" />
-    <option name="LAST_COMMIT_MESSAGE" value="task1" />
+    <MESSAGE value="Completed module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed module" />
   </component>
   <component name="WindowStateProjectService">
     <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1601499559533">
@@ -170,10 +185,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1601493178887" />
-    <state x="275" y="7" key="CommitChangelistDialog2" timestamp="1601499926068">
+    <state x="275" y="7" key="CommitChangelistDialog2" timestamp="1601501105248">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="275" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601499926068" />
+    <state x="275" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601501105248" />
     <state width="1476" height="208" key="GridCell.Tab.0.bottom" timestamp="1601499330172">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
